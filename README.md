@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name's Igor<br>I'm 20 years Old<br>I'm from Brazil<br>I'm live in Portugal<br>I'm a Junior Developer of Front-End<br>My technologies are HTML5, CSS3 and JavaScript<br>I'm student Veterinary Medicine<br>I have a cat, a dog and a snake.
+My name's Igor<br>I'm 20 years Old<br>I'm from Brazil<br>I'm living in Portugal<br>I'm a Junior Developer of Front-End<br>My technologies are HTML5, CSS3 and JavaScript<br>I'm studying Veterinary Medicine<br>I have a cat, a dog and a snake.
 
 
 ## 🌐 Socials:
