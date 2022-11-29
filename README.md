@@ -15,10 +15,8 @@ My name's Igor<br>I'm 20 years Old<br>I'm from Brazil<br>I'm living in Portugal<
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=rogiandrade&icon=6&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rogiandrade&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
