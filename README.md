@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Igor Andrade! </h2>
+<h2 align="center">Hi 👋! My name's Igor Andrade! </h2>
 
 ###
 
@@ -57,8 +57,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img height="500" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"  />
