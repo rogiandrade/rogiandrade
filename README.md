@@ -58,12 +58,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"  />
-</div>
-
-###
-
-<div align="center">
+  <img height="160" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"  />
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=12166400804">
 </div>
 
