@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm a fullstack developer, living in Portugal.</p>
+<p align="center">I'm a fullstack JavaScript developer, living in Portugal.</p>
 
 ###
 
