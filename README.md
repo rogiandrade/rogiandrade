@@ -12,6 +12,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://i.imgur.com/aZ3qMp5.png" height="370" alt="Igor Andrade"  />
+</div>
+
+
+###
+
 <h2 align="center">Hi 👋! My name's Igor Andrade! </h2>
 
 ###
