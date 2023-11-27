@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://i.imgur.com/aZ3qMp5.png" height="370" alt="Igor Andrade"  />
+</div>
+
+###
+
 <h1 align="center">Merry Christmas!</h2>
 
 ###
@@ -9,13 +15,6 @@
   <img src="https://clipart-library.com/image_gallery/172972.png" height="180" alt="tree"  />
   <img src="https://clipart-library.com/image_gallery/172972.png" height="180" alt="tree"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://i.imgur.com/aZ3qMp5.png" height="370" alt="Igor Andrade"  />
-</div>
-
 
 ###
 
