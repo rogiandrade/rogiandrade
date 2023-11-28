@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">I'm a fullstack JavaScript developer, I'm from Brazil and live in Portugal. Take a look at my work at igorandrade.dev</p>
+<p align="center">I'm a fullstack JavaScript developer, I'm from Brazil and live in Portugal. Take a look at my work at <a href="https://igorandrade.dev">igorandrade.dev</a></p>
 
 ###
 
