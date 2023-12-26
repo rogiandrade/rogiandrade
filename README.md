@@ -4,16 +4,16 @@
 
 ###
 
-<h1 align="center">Merry Christmas!</h2>
+<h1 align="center">🚀🚀 Happy New Year! 🚀🚀</h2>
 
 ###
  
 <div align="center">
-  <img src="https://clipart-library.com/image_gallery/172972.png" height="180" alt="tree"  />
-  <img src="https://clipart-library.com/image_gallery/172972.png" height="180" alt="tree"  />
-  <img src="https://clipart-library.com/image_gallery/172972.png" height="180" alt="tree"  />
-  <img src="https://clipart-library.com/image_gallery/172972.png" height="180" alt="tree"  />
-  <img src="https://clipart-library.com/image_gallery/172972.png" height="180" alt="tree"  />
+  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="180" alt="fireworks"  />
+  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="180" alt="fireworks"  />
+  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="180" alt="fireworks"  />
+  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="180" alt="fireworks"  />
+  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="180" alt="fireworks"  />
 </div>
 
 ###
@@ -79,11 +79,11 @@
 ###
 
 <div align="center">
-  <img src="https://clipart-library.com/image_gallery/172972.png" height="180" alt="tree"  />
-  <img src="https://clipart-library.com/image_gallery/172972.png" height="180" alt="tree"  />
-  <img src="https://clipart-library.com/image_gallery/172972.png" height="180" alt="tree"  />
-  <img src="https://clipart-library.com/image_gallery/172972.png" height="180" alt="tree"  />
-  <img src="https://clipart-library.com/image_gallery/172972.png" height="180" alt="tree"  />
+  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="180" alt="fireworks"  />
+  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="180" alt="fireworks"  />
+  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="180" alt="fireworks"  />
+  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="180" alt="fireworks"  />
+  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="180" alt="fireworks"  />
 </div>
 
 ###
