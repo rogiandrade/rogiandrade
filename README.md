@@ -4,20 +4,6 @@
 
 ###
 
-<h1 align="center">🚀🚀 Happy New Year! 🚀🚀</h2>
-
-###
- 
-<div align="center">
-  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="160" alt="fireworks"  />
-  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="160" alt="fireworks"  />
-  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="160" alt="fireworks"  />
-  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="160" alt="fireworks"  />
-  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="160" alt="fireworks"  />
-</div>
-
-###
-
 <h2 align="center">Hi 👋! My name's Igor Andrade! </h2>
 
 ###
@@ -74,16 +60,6 @@
 <div align="center">
   <img height="330" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"  />
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=12166400804">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="160" alt="fireworks"  />
-  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="160" alt="fireworks"  />
-  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="160" alt="fireworks"  />
-  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="160" alt="fireworks"  />
-  <img src="https://images.vexels.com/media/users/3/153673/isolated/preview/06317d39376a5cf0bb595082ff19dbbf-fireworks-display-icon-by-vexels.png" height="160" alt="fireworks"  />
 </div>
 
 ###
