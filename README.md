@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/aZ3qMp5.png" height="370" alt="Igor Andrade"  />
+  <img src="https://i.imgur.com/QnfIbIF.jpg" height="370" alt="Igor Andrade"  />
 </div>
 
 ###
