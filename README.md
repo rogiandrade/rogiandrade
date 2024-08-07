@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I'm a fullstack JavaScript developer, I'm from Brazil and live in Portugal. Take a look at my work at <a href="https://igorandrade.dev">igorandrade.dev</a></p>
+<p align="center">I'm a fullstack JavaScript developer, I'm from Brazil and live in Europe. Take a look at my work at <a href="https://igorandrade.dev">igorandrade.dev</a> and <a href="https://www.feelsapp.org">feelsapp.org</a></p>
 
 ###
 
